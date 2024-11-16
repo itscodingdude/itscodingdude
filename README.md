@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad Asad</h1>
+<h1 align="center">Hello 👋, I'm Muhammad Asad</h1>
 <h3 align="center">"Turning ideas into impactful solutions with Python, AI, and creativity!"</h3>
 
 - 🎯 I’m currently Focus on learning **Advanced Python libraries and Artificial Intelligence**
